@@ -53,7 +53,8 @@
 ---
 
 ### 🌟 Featured Projects
-- 🚄 **Online Railway Reservation System** - A PHP & MySQL based railway booking management platform. Developed in collaboration.
+- 🚌 **CUSTS (City University Smart Transport System)** - A smart university transport booking and routing platform built with PHP, MySQL, and JavaScript. Features seat booking, transport tracking, and admin dashboard management.
+- 🚄 **Online Railway Reservation System** - A PHP & MySQL based railway booking management platform designed for hassle-free ticket reservation and passenger dashboard management.
 
 ---
 
